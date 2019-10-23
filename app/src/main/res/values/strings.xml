@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Vendas Facul</string>
+    <string name="quantidade">QUANTIDADE</string>
+    <string name="abrir_cupom">ABRIR CUPOM</string>
+    <string name="adicionar_item">ADICIONAR ITEM</string>
+    <string name="ean">EAN</string>
+    <string name="_123456789">123456789</string>
+    <string name="_1">1</string>
+</resources>
