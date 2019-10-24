@@ -62,7 +62,7 @@ public class VendasActivity extends AppCompatActivity {
             }
         });
 
-        lstvwItens = findViewById(R.id.listContatos);
+        lstvwItens = findViewById(R.id.lstvwItem);
         adaptador = new ArrayAdapter<String>(this,R.layout.support_simple_spinner_dropdown_item,itens);
         lstvwItens.setAdapter(adaptador);
         lstvwItens.setOnItemClickListener(new AdapterView.OnItemClickListener() {
